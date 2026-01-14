@@ -1,6 +1,6 @@
 
 import { GoogleGenAI, Type } from "@google/genai";
-import { TechniqueType, TECHNIQUES, FinalSolution } from "../types";
+import { TechniqueType, TECHNIQUES, FinalSolution } from "./types";
 
 // Always use process.env.API_KEY directly
 const ai = new GoogleGenAI({ apiKey: process.env.API_KEY });
