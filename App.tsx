@@ -321,7 +321,7 @@ const App: React.FC = () => {
             <span className="gradient-text">حلول مبتكرة</span>
           </h1>
           <p className="text-sm md:text-xl lg:text-2xl text-slate-500 leading-relaxed font-bold max-w-3xl mx-auto px-2 md:px-4 opacity-80">
-            أدخل مشكلتك، وسيقوم "مبتكر" بتحليلها واختيار المنهجية الابتكارية الأنسب (سكامبر، تريز، أو القبعات الست) لهندسة حلول عبقرية.
+            أدخل مشكلتك، وسيقوم "مبتكر" بتحليلها واختيار التقنية الأنسب (سكامبر، تريز، أو القبعات الست) لتوليد حلول عبقرية.
           </p>
         </div>
 
@@ -376,7 +376,7 @@ const App: React.FC = () => {
         <div className="w-full max-w-6xl mb-32">
            <div className="flex flex-col md:flex-row justify-between items-center gap-6 mb-12 px-2">
               <div className="text-center md:text-right">
-                <h2 className="text-3xl md:text-5xl font-black text-slate-900 mb-4">موسوعة أدوات الابتكار</h2>
+                <h2 className="text-3xl md:text-5xl font-black text-slate-900 mb-4">موسوعة تقنيات التفكير الإبداعي </h2>
                 <p className="text-slate-500 font-bold md:text-lg">اكتشف المنهجيات العالمية التي يعتمد عليها "مبتكر" في توليد الحلول.</p>
               </div>
               <div className="w-full md:w-80 relative">
