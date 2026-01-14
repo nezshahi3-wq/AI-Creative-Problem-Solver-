@@ -38,7 +38,7 @@ import {
   Atom
 } from 'lucide-react';
 import { TechniqueType, TECHNIQUES, FinalSolution } from './types';
-import { analyzeAndSolve } from './services/geminiService';
+import { analyzeAndSolve } from './geminiService';
 
 interface Toast {
   id: number;
